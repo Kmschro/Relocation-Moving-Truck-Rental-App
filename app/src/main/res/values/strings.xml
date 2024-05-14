@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck Rental App</string>
+    <string name="btnCalc">Calculate</string>
+    <string name="hint1">Number of Miles</string>
+    <string name="imgDescription">BMI image</string>
+    <string name="textTitle">Relocation Truck App</string>
+</resources>
